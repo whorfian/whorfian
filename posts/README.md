@@ -1,0 +1,1 @@
+The markdown files in this folder function as my blog. I hate dealing with HTML and CSS or tools like Jekyll, and GitHub's rendering of Markdown is pretty much exactly what I want a blog to look like anyways. Just imagine you're at the article select page for a beautifully crafted blog instead of just scrolling through files. 
