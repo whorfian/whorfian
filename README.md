@@ -1,1 +1,1 @@
-
+The markdown files of this repo function as my blog. I hate dealing with HTML and CSS or tools like Jekyll, and GitHub's rendering of Markdown is pretty much exactly what I want a blog to look like anyways. 
