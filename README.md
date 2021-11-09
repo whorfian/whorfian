@@ -1,4 +1,4 @@
-M24 Software Engineer
+M24 Software Engineer  
 Enjoys projects relating to:
 - workflow
 - keyboards/typing
