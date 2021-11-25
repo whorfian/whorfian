@@ -1,1 +1,5 @@
 The markdown files in this folder function as my blog. I hate dealing with HTML and CSS or tools like Jekyll, and GitHub's rendering of Markdown is pretty much exactly what I want a blog to look like anyways. Just imagine you're at the article select page for a beautifully crafted blog instead of just scrolling through files. 
+
+These are all WIP. The structure, grammar, and content of all articles here are subject to change and I welcome DMs from anyone who would like to offer their thoughts on something I've posted: whorf#7361
+
+I have nothing new to say, but I will write anyway. Most of this is probably a poorly worded rediscovery of something else. I will not shock the world with some unique, intelligent view of the world. I am a child of noise, so it is time to release my own noise into the world, for I am tired of listening. Whether something is intense wisdom or complete delusion is always up to what you choose to get out of it, for it is all just noise.
