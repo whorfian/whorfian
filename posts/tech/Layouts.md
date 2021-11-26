@@ -36,7 +36,7 @@ Raw speed in typing (as well as comfort) has a lot to do with technique. One of 
 
 I did this by introducing alt fingerings. This means you change what finger you use for a key based on the context: the keys before and after. Tons of fast typists do this intuitively and don't think much of it. Some do it a ton. Some barely do it at all. There are enough fast typists that *don't* do it that I don't think you could argue that it's a requirement for high speed; it just makes typing flow much more naturally.
 
-If you alt finger a lot with qwerty, I think you can circumvent its worst issue: consecutive finger usage. Consecutive finger usage comes up a lot in qwerty: `sw ed ec fr gr tr br rv hu hy ny my nu mu ju ki lo`, etc. as well as their reverses. Some of these may already not be a problem for you because you implement a common alt fingering of some type. Ex: many people use left index for c, either index for b, either index for y, right middle for u, etc. 
+If you alt finger a lot with qwerty, I think you can circumvent its worst issue: consecutive finger usage. Consecutive finger usage comes up a lot in qwerty: `sw ed ec fr gr tr br rv nh hu hy ny my nu mu ju ki lo`, etc. as well as their reverses. Some of these may already not be a problem for you because you implement a common alt fingering of some type. Ex: many people use left index for c, either index for b, either index for y, right middle for u, etc. 
 
 These pairs of letters are called Same Finger Bigrams (SFBs), and I think the most important ones to eliminate are the ones greater than 1U in distance: things like `my`, `ny`, `nu`, `br`, etc.. You can try to alt finger things like `ik` or `lo` but it can be uncomfortable to angle your hands or fingers like this. I try to implement as many alt fingerings as I can, but I just can't comfortably implement either of these, so words like `follow`, `school`, or `look` essentially bottleneck me to the speed of a single finger. MonkeyType's word speed feature shows that while I type most words at 170-280 wpm (individually), I rarely type these words much faster than 150 wpm. If you're trying to set records on a very short test or text, then these types of bottlenecks can feel pretty limiting and are a weird disruption to flow. 
 
@@ -47,6 +47,8 @@ Imagine overcomplicating typing to this degree ... I strongly recommend getting 
 Another great way of avoiding SFBs is by having a low profile keyboard. A common favorite in the typing community is the apple magic. You can slide combinations like `ik`, `ol`, `fr`, etc. very easily. If you don't want to learn alt fingering for 1U SFBs, this can be just as good if not better. 
 
 ---
+
+Should you use a layout? 
 
 I've created a few well-received keyboard layouts, but I don't use any of them. I stick to qwerty and do the shenanigans described above because I enjoy it. I also just enjoy creating layouts more than I enjoy the excruciating process of learning them, and I'm not *quite* ready to commit to anything.  
 
@@ -65,6 +67,26 @@ Pretty straightforward, but people usually implement this incorrectly for some r
 
 **Minimizing lateral stretches**:
 If you aren't alt fingering, then positions like `be` in qwerty are pretty uncomfortable to type with standard fingering. This stretch between your index and middle finger is called an LSB (Lateral Stretch Bigram). Minimizing this on layouts is entirely about comfort. I hate these stretches so prefer to minimize them. This depends on the stagger of your layout. 
+
+Layouts that properly optimize for these things are a night and day difference from qwerty. Statistically, qwerty isn't too far off from being randomly generated. All of those irregularities in tempo caused by consecutive finger usage, high distance, or imbalanced fingers or hands falls away when you use an optimal layout. 
+
+---
+
+Which do I choose? 
+
+Currently, what layout to choose is an overwhelming question. I mentioned that the layout community is thriving and because of this there are probably almost 100 layouts with different names and versions and mentalities for what they offer. I'd like to offer a concise list of solid layouts that the best layout learners and tinkerers have advocated:
+
+This link contains the grid for them: https://bit.ly/keyboard-layouts-doc  
+[ISRT](https://github.com/NotGate/layout)  
+[Semimak](https://semilin.github.io/semimak/)  
+[Whorf](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.qy42xh5n5x1u)  
+[Dwarf](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.mrzdctbcxyhy)  
+[Colemak Qi;x](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.uq43ez7qbp9w)  
+[Hands Down](https://sites.google.com/alanreiser.com/handsdown)  
+[APT](https://github.com/Apsu/APT#apt-layout)  
+[Colemak DH](https://colemakmods.github.io/mod-dh/)
+[Engram](https://engram.dev/)  
+[Boo](https://ballerboo.github.io/boolayout/)  
 
 --- 
 
