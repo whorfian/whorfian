@@ -1,6 +1,6 @@
 # Keyboard Layouts
 
-First, a tangent. Why care about typing? 
+### First, a tangent. Why care about typing? 
 
 If you're at a computer a lot and plan to be for the next few decades, then being proficient at it is probably a good investment of your time. I commonly hear from people "I'm slowed down by my thinking, not my typing" both in regards to typing languages like English or typing code. I don't believe this at all, and I think it's just a lie we tell ourselves. English could require 100x more characters to express the same amount of **information** and people would still say this. Once you learn to type faster, you'll find that it's very liberating to your creativity. You can get thoughts out at a much more comfortable speed. Spending 10-20 minutes a day practicing typing can be a great investment in your future productivity. 
 
@@ -8,7 +8,7 @@ This isn't the only reason to care about typing. Some people are more into speed
 
 ---
 
-Next, do layouts matter? 
+### Next, do layouts matter? 
 
 By and large, most of the achievements in typing have been held by qwerty users. There is some presence from people using alt layouts, but speed typing is dominated by qwerty pretty heavily. For the few alt users there are, people usually attribute their skill to their higher than average practice time - not their layout. 
 
@@ -20,7 +20,7 @@ I state this obvious fact because it's still a myth people have to refute. There
 
 ---
 
-Okay, so what's the point of a layout? 
+### Okay, so what's the point of a layout? 
 
 You can appreciate that qwerty isn't limiting you while also disliking how it feels to use it. If you're going to be doing a lot of typing, then it should be enjoyable, right? If qwerty feels good to you and you're a fast typist, that's fine; you don't need to use an alt layout. 
 
@@ -30,7 +30,7 @@ While trying to go faster, I was being bugged by lots of words that just *felt* 
 
 ---
 
-Is the layout the problem or are you?
+### Is the layout the problem or are you?
 
 Raw speed in typing (as well as comfort) has a lot to do with technique. One of the easiest ways to improve both comfort and eventually speed is to improve technique.
 
@@ -48,7 +48,7 @@ Another great way of avoiding SFBs is by having a low profile keyboard. A common
 
 ---
 
-Should you use a layout? 
+### Should you use a layout? 
 
 I've created a few well-received keyboard layouts, but I don't use any of them. I stick to qwerty and do the shenanigans described above because I enjoy it. I also just enjoy creating layouts more than I enjoy the excruciating process of learning them, and I'm not *quite* ready to commit to anything.  
 
@@ -72,25 +72,26 @@ Layouts that properly optimize for these things are a night and day difference f
 
 ---
 
-Which do I choose? 
+### Which do I choose? 
 
 Currently, what layout to choose is an overwhelming question. I mentioned that the layout community is thriving and because of this there are probably almost 100 layouts with different names and versions and mentalities for what they offer. I'd like to offer a concise list of solid layouts that the best layout learners and tinkerers have advocated:
 
 This link contains the grid for them: https://bit.ly/keyboard-layouts-doc  
-[ISRT](https://github.com/NotGate/layout)  
-[Semimak](https://semilin.github.io/semimak/)  
-[Whorf](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.qy42xh5n5x1u)  
-[Dwarf](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.mrzdctbcxyhy)  
-[Colemak Qi;x](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.uq43ez7qbp9w)  
-[Hands Down](https://sites.google.com/alanreiser.com/handsdown)  
-[APT](https://github.com/Apsu/APT#apt-layout)  
-[Colemak DH](https://colemakmods.github.io/mod-dh/)  
-[Engram](https://engram.dev/)  
-[Boo](https://ballerboo.github.io/boolayout/)  
+[ISRT (my layout)](https://github.com/NotGate/layout)  
+[Colemak DH (Colemak mod)](https://colemakmods.github.io/mod-dh/)  
+[Colemak Qi;x* (nyfee's Colemak+ISRT mod)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.uq43ez7qbp9w)  
+[Semimak (semi's layout)](https://semilin.github.io/semimak/)  
+[Hands Down Neu (alan's layout)](https://sites.google.com/alanreiser.com/handsdown#h.bjjz1uliewf9)  
+[Whorf* (my layout)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.qy42xh5n5x1u)  
+[Dwarf* (stronglytyped's whorf mod)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.mrzdctbcxyhy)  
+[APT (apsu's layout)](https://github.com/Apsu/APT#apt-layout)  
+[Engram (arno's layout)](https://engram.dev/)  
+[Boo (boo's layout)](https://ballerboo.github.io/boolayout/)  
+*: no article or install page for these currently exists - just the grid
 
 --- 
 
-## Beyond Arrangement
+### Beyond Arrangement
 There are other metrics to consider when deciding how to arrange your 3x10 (NxM, whatever) grid of letters, but you'll still end up with just a standard typing system. 
 
 A standard typing system can benefit greatly from some minor quality-of-life improvements. My two favorites are one shot modifiers and repeat key. These are possible with software but easier and more reliable with firmware like QMK. Implementing them is up to you. 
@@ -113,7 +114,9 @@ There are many colors to the rainbow, and people keep telling me the color red e
 
 ---
 
-Chord Disambiguation: I plan on writing more about this, and on creating software that lets you easily use it with any layout, keymap, or OS, but here's the basic idea.
+### Chord Disambiguation:
+
+I plan on writing more about this, and on creating software that lets you easily use it with any layout, keymap, or OS, but here's the basic idea.
 
 A surprisingly large amount of English can be discerned from just the letters that make up the word. For instance, on qwerty, with my style, `because` uses all unique fingers, and there aren't any other *popular* words which use the same unique characters, so if the user slaps all those letters at the same time, just output `because`! If a word requires multiple chords, as in it uses the same finger twice, then you can chain these slaps together. When you combine a chord with something like a space, period, comma, etc., the program knows you're done chording the word and will output the result. 
 
