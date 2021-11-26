@@ -84,7 +84,7 @@ This link contains the grid for them: https://bit.ly/keyboard-layouts-doc
 [Colemak Qi;x](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.uq43ez7qbp9w)  
 [Hands Down](https://sites.google.com/alanreiser.com/handsdown)  
 [APT](https://github.com/Apsu/APT#apt-layout)  
-[Colemak DH](https://colemakmods.github.io/mod-dh/)
+[Colemak DH](https://colemakmods.github.io/mod-dh/)  
 [Engram](https://engram.dev/)  
 [Boo](https://ballerboo.github.io/boolayout/)  
 
@@ -103,7 +103,7 @@ Both of these are great to have on the opposite thumb that presses space. You ha
 
 ---
 
-First, a small rant. 
+Before I talk about the stranger systems, a small rant: 
 
 Sometimes when I describe more niche typing systems, I get people who don't know me saying, "That sounds like steno. Hey, you should check out steno." when I am not describing steno.  
 When I talk about taipo, a chording system I made that's symmetric, rhythmic, and generally good at typing anything, people say it's like steno.   
