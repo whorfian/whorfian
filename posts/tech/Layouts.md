@@ -32,11 +32,11 @@ While trying to go faster, I was being bugged by lots of words that just *felt* 
 
 ### Is the layout the problem or are you?
 
-Raw speed in typing (as well as comfort) has a lot to do with technique. One of the easiest ways to improve both comfort and eventually speed is to improve technique.
+Raw speed in typing (as well as comfort) has a lot to do with technique. One of the easiest ways to improve both comfort and eventually speed is to improve technique. 
 
-I did this by introducing alt fingerings. This means you change what finger you use for a key based on the context: the keys before and after. Tons of fast typists do this intuitively and don't think much of it. Some do it a ton. Some barely do it at all. There are enough fast typists that *don't* do it that I don't think you could argue that it's a requirement for high speed; it just makes typing flow much more naturally.
+I did this by introducing alt fingerings. This means you change what finger you use for a key based on the context: the keys before and after. Tons of fast typists do this intuitively and don't think much of it. Some do it a ton. Some barely do it at all. There are enough fast typists that *don't* do it (ex: Kathy) that I don't think you could argue that it's a requirement for high speed; it just makes typing flow much more naturally. Sean and Izanagi are examples of incredibly fast typists with **very** dynamic typing styles. Most of their keys could be pressed by any of 2-3 fingers. 
 
-If you alt finger a lot with qwerty, I think you can circumvent its worst issue: consecutive finger usage. Consecutive finger usage comes up a lot in qwerty: `sw ed ec fr gr tr br rv nh hu hy ny my nu mu ju ki lo`, etc. as well as their reverses. Some of these may already not be a problem for you because you implement a common alt fingering of some type. Ex: many people use left index for c, either index for b, either index for y, right middle for u, etc. 
+If you alt finger a lot with qwerty, I think you can circumvent its worst issues: high consecutive finger usage and high travel distance. Consecutive finger usage comes up a lot in qwerty: `sw ed ec fr gr tr br rv nh hu hy ny my nu mu ju ki lo`, etc. as well as their reverses. Some of these may already not be a problem for you because you implement a common alt fingering of some type. Ex: many people use left index for c, either index for b, either index for y, right middle for u, etc. 
 
 These pairs of letters are called Same Finger Bigrams (SFBs), and I think the most important ones to eliminate are the ones greater than 1U in distance: things like `my`, `ny`, `nu`, `br`, etc.. You can try to alt finger things like `ik` or `lo` but it can be uncomfortable to angle your hands or fingers like this. I try to implement as many alt fingerings as I can, but I just can't comfortably implement either of these, so words like `follow`, `school`, or `look` essentially bottleneck me to the speed of a single finger. MonkeyType's word speed feature shows that while I type most words at 170-280 wpm (individually), I rarely type these words much faster than 150 wpm. If you're trying to set records on a very short test or text, then these types of bottlenecks can feel pretty limiting and are a weird disruption to flow. 
 
@@ -102,15 +102,21 @@ Repeat Key repeats whatever key you just typed. This means the worst offenders o
 
 Both of these are great to have on the opposite thumb that presses space. You have 10 fingers; use em! 
 
+They can even be combined into one key! 
+```
+if a-z pressed within x milliseconds:
+    send repeat
+else:
+    send shift
+```
+
+You'll find that this hybrid version almost always does what you want it to do, exceptWhenDealingWithCamelCase.
+
 ---
 
 Before I talk about the stranger systems, a small rant: 
 
-Sometimes when I describe more niche typing systems, I get people who don't know me saying, "That sounds like steno. Hey, you should check out steno." when I am not describing steno.  
-When I talk about taipo, a chording system I made that's symmetric, rhythmic, and generally good at typing anything, people say it's like steno.   
-When I talk about disambiguation engines for chording with normal keyboards, people say it's like steno.   
-When I mention using a context engine to make use of and predict text based on a minimized version of English phonemes, people say it's like steno. Hey, checkout steno.  
-There are many colors to the rainbow, and people keep telling me the color red exists. I know the color red exists. Just because something involves chords or the word "phoneme" that doesn't mean I have reinvented steno.  
+Sometimes when I describe more niche typing systems, I get people who don't know me saying, "That sounds like steno. Hey, you should check out steno." when I am not describing steno. There are many colors to the rainbow, and people keep telling me the color red exists. I know the color red exists. Just because something involves chords or the word "phoneme" that doesn't mean I have reinvented steno.  
 
 ---
 
