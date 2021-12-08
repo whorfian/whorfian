@@ -57,7 +57,7 @@ However, the layout community is thriving and full of people who really enjoy th
 If you'll be at a keyboard for the next few decades, then crafting something specific to what you enjoy makes a lot of sense, especially if (1) you can learn it relatively quickly and (2) you won't have to deal with qwerty keyboards much for school or work. The layouts I and others have created lower SFB count so drastically that alt fingering isn't really necessary. They also optimize for lots of other things: 
 
 **Maximizing rolls**: 
-A layout with high rolling implies that most words will consist of 2-3 characters per hand at a time. This can feel both comfy and fast. Examples of this in qwerty are words like: `ni-ce`, `mo-re`, `li-fe`, `po-wer`, `at-om`, `rea-li-ze`, etc. Because I alt finger things like `tr`, `fr`, and `ju`, I also get more *rollable* words: `tr-im`, `fr-om`, `ju-st`, etc. 
+A layout with high rolling implies that most words will consist of 2-3 characters per hand at a time. This can feel both comfy and fast. Examples of this in qwerty are words like: `ni-ce`, `mo-re`, `on-ce`, `li-fe`, `mo-st`, `po-wer`, `at-om`, `rea-li-ze`, `im-ag-in-e`, etc. Because I alt finger things like `tr`, `fr`, and `ju`, I also get more *rollable* words: `tr-im`, `fr-om`, `ju-st`, etc. 
 
 **Minimizing *semi*-consecutive finger usage**:
 A layout that minimizes both SFB and SFS (Same Finger Skipgrams) (or DSFB (Disjointed Same Finger Bigram) but this is a worse term) guarantees that the letters in a word will use more unique fingers. This means that more words are *chordable*. With my qwerty style, `around` is a good example of this. All letters use a unique finger, so with the correct technique I can type `around` almost instantly with a coordinated slap of the keyboard. 
@@ -85,6 +85,7 @@ This link contains the grid for them: https://bit.ly/keyboard-layouts-doc
 [Whorf* (my layout)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.qy42xh5n5x1u)  
 [Dwarf* (stronglytyped's whorf mod)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.mrzdctbcxyhy)  
 [APT (apsu's layout)](https://github.com/Apsu/APT#apt-layout)  
+[APTex (apsu's layout)](https://github.com/Apsu/APTex#layout)  
 [Engram (arno's layout)](https://engram.dev/)  
 [Boo (boo's layout)](https://ballerboo.github.io/boolayout/)  
 *: no article or install page for these currently exists - just the grid
