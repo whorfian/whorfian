@@ -88,7 +88,7 @@ This link contains the grid for them: https://bit.ly/keyboard-layouts-doc
 [Colemak Qi;x* (nyfee's Colemak+ISRT mod)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.uq43ez7qbp9w)  
 [Semimak (semi's layout)](https://semilin.github.io/semimak/)  
 [Hands Down Neu (alan's layout)](https://sites.google.com/alanreiser.com/handsdown#h.bjjz1uliewf9)  
-[Whorf* (my layout)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.qy42xh5n5x1u)  
+[Whorf (my layout)](https://github.com/whorfian/whorf)  
 [Dwarf* (stronglytyped's whorf mod)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.mrzdctbcxyhy)  
 [APT (apsu's layout)](https://github.com/Apsu/APT#apt-layout)  
 [APTex (apsu's layout)](https://github.com/Apsu/APTex#layout)  
