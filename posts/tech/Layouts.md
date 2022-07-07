@@ -103,7 +103,7 @@ There are other metrics to consider when deciding how to arrange your 3x10 (NxM,
 
 A standard typing system can benefit greatly from some minor quality-of-life improvements. My two favorites are one shot modifiers and repeat key. These are possible with software but easier and more reliable with firmware like QMK. Implementing them is up to you. 
 
-One Shot Shift omits the need to hold down shift in order to capitalize something. You tap shift and whether it releases before the next key or after doesn’t matter. You can treat it just like any other key now. No more typing 'tHe' or 'THe'! I prefer implementations of this that only allow to you capitalize exactly one character. 
+One Shot Shift omits the need to hold down shift in order to capitalize something. You tap shift and whether it releases before the next key or after doesn’t matter. You can treat it just like any other key now. No more typing 'tHe' or 'THe'! I prefer implementations of this that only allow you to capitalize exactly one character. 
 
 Repeat Key repeats whatever key you just typed. This means the worst offenders of SFB count, double letters, are no longer a bottleneck in speed. Words like `look` now become `lo<rep>k`. It might seem overkill but you quickly get used to it and it's great for keeping a steady pace. There are actually more double letters than SFBs in optimized layouts, so technically this matters more for preserving flow than a layout's SFB minimization. Even more words can now be typed instantly with the proper technique, ex: `too`, `see`, `feel`, `week`, `meet`, `book`, `took`, `room`, `good`, `less`, `odd`, `add`, etc., etc., etc.
 
