@@ -82,13 +82,14 @@ Layouts that properly optimize for these things are a night and day difference f
 
 Currently, what layout to choose is an overwhelming question. I mentioned that the layout community is thriving and because of this there are probably almost 100 layouts with different names and versions and mentalities for what they offer. I'd like to offer a concise list of solid layouts that the best layout learners and tinkerers have advocated:
 
-This link contains the grid for them: https://bit.ly/keyboard-layouts-doc  
+This link contains a massive writeup on layouts and their metrics: https://bit.ly/keyboard-layouts-doc  
+[Canary (2022 tournament layout by the AKL team)](https://github.com/apsu/canary)  
+[Semimak (2021 tournament layout by semi)](https://semilin.github.io/semimak/)  
+[Whorf/Wharf (my layouts)](https://github.com/whorfian/whorf)  
 [ISRT (my layout)](https://github.com/NotGate/layout)  
 [Colemak DH (Colemak mod)](https://colemakmods.github.io/mod-dh/)  
-[Colemak Qi;x* (nyfee's Colemak+ISRT mod)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.uq43ez7qbp9w)  
-[Semimak (semi's layout)](https://semilin.github.io/semimak/)  
+[Colemak Qi;x* (nyfee's Colemak+ISRT mod)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.uq43ez7qbp9w)   
 [Hands Down Neu (alan's layout)](https://sites.google.com/alanreiser.com/handsdown#h.bjjz1uliewf9)  
-[Whorf (my layout)](https://github.com/whorfian/whorf)  
 [Dwarf* (stronglytyped's whorf mod)](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit#heading=h.mrzdctbcxyhy)  
 [APT (apsu's layout)](https://github.com/Apsu/APT#apt-layout)  
 [APTex (apsu's layout)](https://github.com/Apsu/APTex#layout)  
